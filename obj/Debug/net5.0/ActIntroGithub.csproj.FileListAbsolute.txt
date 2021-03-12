@@ -1,0 +1,16 @@
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\bin\Debug\net5.0\ActIntroGithub.exe
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\bin\Debug\net5.0\ActIntroGithub.deps.json
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\bin\Debug\net5.0\ActIntroGithub.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\bin\Debug\net5.0\ActIntroGithub.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\bin\Debug\net5.0\ActIntroGithub.dll
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\bin\Debug\net5.0\ref\ActIntroGithub.dll
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\bin\Debug\net5.0\ActIntroGithub.pdb
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ActIntroGithub.csprojAssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ActIntroGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ActIntroGithub.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ActIntroGithub.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ActIntroGithub.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ActIntroGithub.dll
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ref\ActIntroGithub.dll
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ActIntroGithub.pdb
+C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ActIntroGithub.genruntimeconfig.cache
