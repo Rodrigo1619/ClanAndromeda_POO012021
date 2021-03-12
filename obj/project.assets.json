@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rodri\\.nuget\\packages\\": {}
+    "C:\\Users\\50372\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodri\\OneDrive\\Documentos\\Workspace\\POO\\Act. Introagithub\\ActIntroGithub\\ActIntroGithub.csproj",
+      "projectUniqueName": "C:\\Users\\50372\\OneDrive\\Documentos\\workspaces\\POO\\Actividades\\Git\\ClanAndromeda_POO012021\\ActIntroGithub.csproj",
       "projectName": "ActIntroGithub",
-      "projectPath": "C:\\Users\\rodri\\OneDrive\\Documentos\\Workspace\\POO\\Act. Introagithub\\ActIntroGithub\\ActIntroGithub.csproj",
-      "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodri\\OneDrive\\Documentos\\Workspace\\POO\\Act. Introagithub\\ActIntroGithub\\obj\\",
+      "projectPath": "C:\\Users\\50372\\OneDrive\\Documentos\\workspaces\\POO\\Actividades\\Git\\ClanAndromeda_POO012021\\ActIntroGithub.csproj",
+      "packagesPath": "C:\\Users\\50372\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\50372\\OneDrive\\Documentos\\workspaces\\POO\\Actividades\\Git\\ClanAndromeda_POO012021\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\50372\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
