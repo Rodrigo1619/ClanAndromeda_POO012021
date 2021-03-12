@@ -14,3 +14,19 @@ C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithu
 C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ref\ActIntroGithub.dll
 C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ActIntroGithub.pdb
 C:\Users\rodri\OneDrive\Documentos\Workspace\POO\Act. Introagithub\ActIntroGithub\obj\Debug\net5.0\ActIntroGithub.genruntimeconfig.cache
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\bin\Debug\net5.0\ActIntroGithub.exe
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\bin\Debug\net5.0\ActIntroGithub.deps.json
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\bin\Debug\net5.0\ActIntroGithub.runtimeconfig.json
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\bin\Debug\net5.0\ActIntroGithub.runtimeconfig.dev.json
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\bin\Debug\net5.0\ActIntroGithub.dll
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\bin\Debug\net5.0\ref\ActIntroGithub.dll
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\bin\Debug\net5.0\ActIntroGithub.pdb
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\obj\Debug\net5.0\ActIntroGithub.csprojAssemblyReference.cache
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\obj\Debug\net5.0\ActIntroGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\obj\Debug\net5.0\ActIntroGithub.AssemblyInfoInputs.cache
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\obj\Debug\net5.0\ActIntroGithub.AssemblyInfo.cs
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\obj\Debug\net5.0\ActIntroGithub.csproj.CoreCompileInputs.cache
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\obj\Debug\net5.0\ActIntroGithub.dll
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\obj\Debug\net5.0\ref\ActIntroGithub.dll
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\obj\Debug\net5.0\ActIntroGithub.pdb
+C:\Users\50372\OneDrive\Documentos\workspaces\POO\Actividades\Git\ClanAndromeda_POO012021\obj\Debug\net5.0\ActIntroGithub.genruntimeconfig.cache
